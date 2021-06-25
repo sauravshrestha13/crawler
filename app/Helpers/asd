@@ -1,0 +1,1132 @@
+"""
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Madeleine Attwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="ff4fc5fc-b6b4-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">Allay Occupational Therapy</div>\r\n
+                    <p><strong class="name">Madeleine Attwood</strong></p>\r\n
+                        <p>\r\n
+                            275 Ryrie Street <br>\r\n
+GEELONG,                             VIC,                             3220 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:madeleine@allayoccupationaltherapy.com.au" >madeleine@allayoccupation ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Medicare, Medicare - Chronic Disease Management, Medicare and Better Access to Mental Health, NDIS, Better Access to Mental Health (BAMH) Endorsed<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Autism Spectrum Disorder, Intellectual Disability, Disability, NDIS Practice, Paediatrics, Private Practice Area<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-6beb0202-418e-4c7c-9f7c-67aeb04c3d1b" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Andrea Carmen Blackwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="5f831f8f-9eba-ea11-9434-005056be13b5">\r\n
+                        <div class="title__tag">Happy Dots Occupational Therapy for Children</div>\r\n
+                    <p><strong class="name">Andrea Carmen Blackwood</strong></p>\r\n
+                        <p>\r\n
+                            342 -326 Main Road <br>\r\n
+CARDIFF,                             NSW,                             2285 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0249598920" target="_blank">0249598920</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Language(s):</strong>\r\n
+Norwegian<br/>\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Paediatrics<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-94a05df4-72b5-444f-8cba-de88c976d48b" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Madeleine Calderwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="1202952e-6e48-ea11-9403-005056be13b5">\r\n
+                        <div class="title__tag">Potential ability group</div>\r\n
+                    <p><strong class="name">Madeleine Calderwood</strong></p>\r\n
+                        <p>\r\n
+                            PO Box 803 <br>\r\n
+STRATHALBYN,                             SA,                             5171 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0872003216" target="_blank">08 7200 3216</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Aged Care (Commonwealth Home Support Programme/Home Care Packages), Medicare, MAC, NDIS, Department of Veterans' Affairs (DVA)<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Disability, Autism Spectrum Disorder, Intellectual Disability, Private Practice Area, Vision Impairment, Assistive Technology, Modifications/Access, NDIS Practi ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+                <div  style="padding-bottom:0.5rem">\r\n
+                    <button class="btn inline-block read__more collapsed" data-toggle="collapse" data-target="#extra__content-3f29ba3a-dab2-4beb-8f86-90a538cd23 ▶
+                        <span class="if-collapsed">Other Clinics</span>\r\n
+                        <span class="if-not-collapsed">Show less</span>\r\n
+                    </button>\r\n
+                </div>\r\n
+            <div class="extra__content collapse" id="extra__content-3f29ba3a-dab2-4beb-8f86-90a538cd232b" >\r\n
+                                    <strong>Other Workplaces:</strong>\r\n
+                            <div class="content__row padding-top-15">\r\n
+                                <div class="content__col contact-content co-md-6" ajax-data="355a4580-cf82-ea11-9404-005056be13b5">\r\n
+<div class="title__tag">Potential ability group</div>                                                                            <p>\r\n
+                                            Services Area <br>\r\n
+GOOLWA,                                             SA,                                             5214 <br>\r\n
+AUSTRALIA                                        </p>\r\n
+                                                                    </div>\r\n
+                                <div class="content__col co-md-6">\r\n
+\r\n
+                                        <p></p>\r\n
+                                        <p><span class="contact-heading">Mobile:</span> <a href="tel:0872003216" target="_blank">08 7200 3216</a></p>\r\n
+                                        <p></p>\r\n
+                                        <p></p>\r\n
+                                        <p></p>\r\n
+                                </div>\r\n
+                            </div>\r\n
+                            <div class="content__row padding-top-15">\r\n
+                                <div class="content__col contact-content co-md-6" ajax-data="6f04f7a2-cf82-ea11-9404-005056be13b5">\r\n
+<div class="title__tag">Potential ability group</div>                                                                            <p>\r\n
+                                            Services Area <br>\r\n
+TAILEM BEND,                                             SA,                                             5260 <br>\r\n
+AUSTRALIA                                        </p>\r\n
+                                                                    </div>\r\n
+                                <div class="content__col co-md-6">\r\n
+\r\n
+                                        <p></p>\r\n
+                                        <p><span class="contact-heading">Mobile:</span> <a href="tel:0872003216" target="_blank">08 7200 3216</a></p>\r\n
+                                        <p></p>\r\n
+                                        <p></p>\r\n
+                                        <p></p>\r\n
+                                </div>\r\n
+                            </div>\r\n
+            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Luke Fulwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="07abf489-469a-ea11-9434-005056be13b5">\r\n
+                        <div class="title__tag">The Base</div>\r\n
+                    <p><strong class="name">Luke Fulwood</strong></p>\r\n
+                        <p>\r\n
+                            3 TUDOR ST <br>\r\n
+NEWCASTLE WEST,                             NSW,                             2302 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:luke.fulwood@thebasehealth.com.au" >luke.fulwood@thebasehealth.com.au ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Medicare, NDIS, Medicare and Better Access to Mental Health, Better Access to Mental Health (BAMH) Endorsed<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Mental Health inc. forensic AOD and refugees<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-43633d9d-553c-4814-be39-73fd1d8269a9" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Jodi Haywood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="b78f2f0b-e196-ea11-9434-005056be13b5">\r\n
+                        <div class="title__tag">Lotus Therapy</div>\r\n
+                    <p><strong class="name">Jodi Haywood</strong></p>\r\n
+                        <p>\r\n
+                            8/21 Nash Street <br>\r\n
+GYMPIE,                             QUEENSLAND,                             4570 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0492827487" target="_blank">0492827487</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:Jodi@LotusTherapy.com.au" >Jodi@LotusTherapy.com.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+NDIS, Enhanced Primary Care, Medicare<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Intellectual Disability, Rehabilitation, Paediatrics, Modifications/Access, Assistive Technology, Foundation Skills, Autism Spectrum Disorder, Disability, Neuro ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-218c0e87-5d32-49ff-86ed-e5c3dbe9f346" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Narelle Henwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="e487b92d-920d-48f7-a270-371445005b89">\r\n
+                        <div class="title__tag">CQUniversity</div>\r\n
+                    <p><strong class="name">Narelle Henwood</strong></p>\r\n
+                        <p>\r\n
+                            Building 7/1.13 Bruce Highway <br>\r\n
+ROCKHAMPTON,                             QLD,                             4700 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Research/Education<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-ce17f1b8-9d80-46d6-8c90-9d4a21fcf016" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Alison Hopwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="eae27c16-b8ad-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">Independent Kids Occupational Therapy</div>\r\n
+                    <p><strong class="name">Alison Hopwood</strong></p>\r\n
+                        <p>\r\n
+                            7 Wilks Road <br>\r\n
+LENAH VALLEY,                             TAS,                             7008 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Autism Spectrum Disorders, Better Access to Mental Health (BAMH) Endorsed<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Paediatrics<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-2bd7c9d6-0948-435b-a4c9-b4cf7660f08f" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Sandra Kirkwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="240a20d2-adc9-eb11-943d-005056be13b5">\r\n
+                        <div class="title__tag">Sandra Kirkwood B. Occ.Thy, B. Music, M.Phil, Grad Cert Education</div>\r\n
+                    <p><strong class="name">Sandra Kirkwood</strong></p>\r\n
+                        <p>\r\n
+                             <br>\r\n
+IPSWICH AND SURROUNDS,                             QLD,                             4306 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0488624362" target="_blank">0488624362</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:kirkwood13@bigpond.com" >kirkwood13@bigpond.com</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Medicare and Better Access to Mental Health, Aids and equipment schemes (state and territory), Autism Spectrum Disorders, Enhanced Primary Care, Medicare - Chro ▶
+                                <strong>Area(s) of Practice:</strong>\r\n
+Vision Impairment, NDIS Practice, Neurological Conditions, Modifications/Access, Intellectual Disability, Disability, Cultural Competency, Carer and Consumer Fo ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+                <div  style="padding-bottom:0.5rem">\r\n
+                    <button class="btn inline-block read__more collapsed" data-toggle="collapse" data-target="#extra__content-2a67a7e2-513d-459f-9a40-3f0a80af8c ▶
+                        <span class="if-collapsed">Other Clinics</span>\r\n
+                        <span class="if-not-collapsed">Show less</span>\r\n
+                    </button>\r\n
+                </div>\r\n
+            <div class="extra__content collapse" id="extra__content-2a67a7e2-513d-459f-9a40-3f0a80af8c58" >\r\n
+                                    <strong>Other Workplaces:</strong>\r\n
+                            <div class="content__row padding-top-15">\r\n
+                                <div class="content__col contact-content co-md-6" ajax-data="2747d300-5b69-ea11-9404-005056be13b5">\r\n
+<div class="title__tag">Sandra Kirkwood B. Occ.Thy, B. Music, M.Phil. (Music Health Australia)</div>                                                             ▶
+                                             <br>\r\n
+IPSWICH AND SURROUNDING REGIONS,                                             QLD,                                             4306 <br>\r\n
+AUSTRALIA                                        </p>\r\n
+                                                                    </div>\r\n
+                                <div class="content__col co-md-6">\r\n
+\r\n
+                                        <p></p>\r\n
+                                        <p><span class="contact-heading">Mobile:</span> <a href="tel:0488624362" target="_blank">0488 624 362</a></p>\r\n
+                                        <p></p>\r\n
+                                        <p></p>\r\n
+                                        <p><span class="contact-heading">Email:</span> <a href="mailto:kirkwood13@bigpond.com" >kirkwood13@bigpond.com</a></p>\r ▶
+                                </div>\r\n
+                            </div>\r\n
+                            <div class="content__row padding-top-15">\r\n
+                                <div class="content__col contact-content co-md-6" ajax-data="310a20d2-adc9-eb11-943d-005056be13b5">\r\n
+<div class="title__tag">Sandra Kirkwood B. Occ.Thy, B. Music, M.Phil. Grad Cert Education (Music Health Australia) -  -</div>                                    ▶
+                                            mobile 0488 624 362 kirkwood13@bigpond.com<br>\r\n
+IPSWICH AND SURROUNDING REGIONS,                                             QUEENSLAND,                                             4306 <br>\r\n
+AUSTRALIA                                        </p>\r\n
+                                                                    </div>\r\n
+                                <div class="content__col co-md-6">\r\n
+\r\n
+                                        <p></p>\r\n
+                                        <p><span class="contact-heading">Mobile:</span> <a href="tel:0488624362" target="_blank">0488624362</a></p>\r\n
+                                        <p></p>\r\n
+                                        <p></p>\r\n
+                                        <p><span class="contact-heading">Email:</span> <a href="mailto:kirkwood13@bigpond.com" >kirkwood13@bigpond.com</a></p>\r ▶
+                                </div>\r\n
+                            </div>\r\n
+            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Alice Lockwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="4815eb3d-ddaa-ea11-9434-005056be13b5">\r\n
+                        <div class="title__tag">NAPA Centre</div>\r\n
+                    <p><strong class="name">Alice Lockwood</strong></p>\r\n
+                        <p>\r\n
+                            2 LINCOLN ST <br>\r\n
+LANE COVE WEST,                             NSW,                             2066 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:alice@napacentre.com.au" >alice@napacentre.com.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+NDIS, Better Access to Mental Health (BAMH) Endorsed<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Autism Spectrum Disorder, Intellectual Disability, Neurological Conditions, Paediatrics, Disability<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-8a862d09-a5a0-4488-8bee-3ce1685813ce" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Angela Lockwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="1277d724-9d7f-ea11-9404-005056be13b5">\r\n
+                        <div class="title__tag">STAM Media Pty Ltd</div>\r\n
+                    <p><strong class="name">Angela Lockwood</strong></p>\r\n
+                        <p>\r\n
+                            PO Box 6 <br>\r\n
+CONDONG,                             NSW,                             2484 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0421029370" target="_blank">0421029370</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:support@angelalockwood.com.au" >support@angelalockwood.com.au</a></p> ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Medicare, Autism Spectrum Disorders, NDIS<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Leadership/ Management, Non Clinical Professional Development , Paediatrics, Private Practice Area, Professional Supervision, Autism Spectrum Disorder, NDIS Pra ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-1a35db50-58e2-45ce-ac0b-fac1059fbac5" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Georgina Southwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="62566103-5ecd-4e1a-a7e3-ff3ebbb13f9e">\r\n
+                        <div class="title__tag">Yorke Peninsula Occupational Therapy</div>\r\n
+                    <p><strong class="name">Georgina Southwood</strong></p>\r\n
+                        <p>\r\n
+                            PO Box 147 <br>\r\n
+MAITLAND,                             SA,                             5573 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0439808779" target="_blank">0439 808 779</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:georgie@ypot.com.au" >georgie@ypot.com.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Aged Care (Commonwealth Home Support Programme/Home Care Packages), Department of Veterans' Affairs (DVA), Medicare, NDIS, TAC (VIC), Workcover (QLD, WA)<br />\ ▶
+                                <strong>Area(s) of Practice:</strong>\r\n
+Disability, Rehabilitation, Paediatrics, NDIS Practice, Aged Care Practice, Private Practice Area, Assistive Technology, Hand Therapy/Lymphedema, Modifications/ ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-d8cb73c5-6393-46fd-9faa-e24609ca0f72" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Barbara Underwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="6e8c9139-018b-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">OHRS</div>\r\n
+                    <p><strong class="name">Barbara Underwood</strong></p>\r\n
+                        <p>\r\n
+                            146 Orana Road <br>\r\n
+OCEAN SHORES,                             NSW,                             2483 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0403661416" target="_blank">0403661416</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:barb@ohrs.com.au" >barb@ohrs.com.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Language(s):</strong>\r\n
+Spanish<br/>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Workcover (QLD, WA), WorkSafe  (VIC, ACT, NT, TAS), Workers compensation schemes (state and territory), Transport accident bodies (state and territory), Medicar ▶
+                                <strong>Area(s) of Practice:</strong>\r\n
+Driving, Neurological Conditions, Intellectual Disability, NDIS Practice, Occupational Rehab, OH&S/Ergonomics, Palliative Care and Oncology, Private Practice Ar ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-8fcdb6e9-0ed8-46fd-871b-d123329bbde2" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Katherine Underwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="0fa10ee3-c4b2-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">Queensland Children’s Hospital -</div>\r\n
+                    <p><strong class="name">Katherine Underwood</strong></p>\r\n
+                        <p>\r\n
+                            501 Stanley Street <br>\r\n
+SOUTH BRISBANE,                             QLD,                             4101 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0450909851" target="_blank">0450909851</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:katherine.underwood@health.qld.gov.au" >katherine.underwood@health.ql ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Paediatrics<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-f17b827a-6c39-4bd7-8422-e87c0e108074" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Matthew Underwood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="ec9ff5df-0b6a-4fea-a797-aca9ce06f10b">\r\n
+                        <div class="title__tag">Occupational Health &amp; Rehab Services</div>\r\n
+                    <p><strong class="name">Matthew Underwood</strong></p>\r\n
+                        <p>\r\n
+                            PO Box 44 <br>\r\n
+NEW BRIGHTON,                             NSW,                             2483 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p><span class="contact-heading">Phone:</span> <a href="tel:0266805636" target="_blank">02 6680 5636</a></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0414291700" target="_blank">0414291700</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Transport accident bodies (state and territory)<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Rehabilitation, Driving, Private Practice Area, Neurological Conditions<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-99f190c0-c72f-47c8-aec9-ce2ce4ffed01" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Alexandra Wood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="8f58caec-7b42-4189-ba88-c7d7448babe6">\r\n
+                        <div class="title__tag">Nillumbik Community Health Service Ltd.</div>\r\n
+                    <p><strong class="name">Alexandra Wood</strong></p>\r\n
+                        <p>\r\n
+                            43 Carrington Rd <br>\r\n
+BOX HILL,                             VIC,                             3128 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p><span class="contact-heading">Phone:</span> <a href="tel:0398902220" target="_blank">03 9890 2220</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:awood@carringtonhealth.org.au" >awood@carringtonhealth.org.au</a></p> ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Aids and equipment schemes (state and territory)<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Aged Care Practice<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-47bcca6a-f924-4696-bd7b-ed159d5973f5" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Clare Wood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="06065364-538a-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">sout west child and family therpay centre</div>\r\n
+                    <p><strong class="name">Clare Wood</strong></p>\r\n
+                        <p>\r\n
+                            PO Box 843 <br>\r\n
+MARGARET RIVER,                             WA,                             6285 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0438850727" target="_blank">0438850727</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+NDIS, Better Access to Mental Health (BAMH) Endorsed<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Mental Health inc. forensic AOD and refugees, Private Practice Area<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-215e9a2d-bf10-483a-88fc-7f0650b98719" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Helen Wood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="234d02ea-9a8a-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">Private Practitioner -</div>\r\n
+                    <p><strong class="name">Helen Wood</strong></p>\r\n
+                        <p>\r\n
+                            Services Area <br>\r\n
+MT COLAH,                             NSW,                             2079 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0425273584" target="_blank">0425 273 584</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:ehwood@bigpond.net.au" >ehwood@bigpond.net.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Aids and equipment schemes (state and territory), Medicare<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Vision Impairment, Private Practice Area, Medico-Legal Practice, Rehabilitation, Modifications/Access, Hand Therapy/Lymphedema, Neurological Conditions<br />\r\ ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-eeb154a4-90cc-4359-8b48-3fe129d374eb" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Louise Wood">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="b58551c0-5eba-ea11-9434-005056be13b5">\r\n
+                        <div class="title__tag">Louise Wood Occupational Therapy</div>\r\n
+                    <p><strong class="name">Louise Wood</strong></p>\r\n
+                        <p>\r\n
+                            131 O&#39;Regans Road <br>\r\n
+PERTHVILLE,                             NSW,                             2795 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0429371542" target="_blank">0429 371 542</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Assistive Technology, Modifications/Access, Disability<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-d3abffa3-01ee-4d85-b4b9-028a34d35f39" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Kiora Woodford">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="5c5a53e2-ba00-4e64-9c5a-9d2c53287261">\r\n
+                        <div class="title__tag">Barwon Occupational Therapy</div>\r\n
+                    <p><strong class="name">Kiora Woodford</strong></p>\r\n
+                        <p>\r\n
+                            8/147 Marshalltown road, Grovedale <br>\r\n
+GEELONG,                             VIC,                             3216 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:k.woodford@barwonoccupationaltherapy.com" >k.woodford@barwonoccupatio ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Better Access to Mental Health (BAMH) Endorsed<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Assistive Technology, Paediatrics, Disability<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-a574ef11-c149-4abb-a90e-f9fec7643e11" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Emma Woodman">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="d9a9bc87-b2af-4acf-9230-571a63aa1bac">\r\n
+                        <div class="title__tag">Bendigo HealthCare Group</div>\r\n
+                    <p><strong class="name">Emma Woodman</strong></p>\r\n
+                        <p>\r\n
+                            37 Havlin St East <br>\r\n
+KENNINGTON,                             VIC,                             3550 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p><span class="contact-heading">Phone:</span> <a href="tel:0354547102" target="_blank">03) 5454 7102</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Aged Care (Commonwealth Home Support Programme/Home Care Packages), Aids and equipment schemes (state and territory), NDIS<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Aged Care Practice, Assistive Technology, Carer and Consumer Focus, Foundation Skills, Knowledge Translation, Leadership/ Management, NDIS Practice, Non Clinica ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-80c7285a-10a9-4c5c-bfc5-3674f0005020" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Belinda Woods">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="70c3a6fa-30a6-ea11-9434-005056be13b5">\r\n
+                        <div class="title__tag">Royal Melbourne  Hospital - Royal Park campus</div>\r\n
+                    <p><strong class="name">Belinda Woods</strong></p>\r\n
+                        <p>\r\n
+                             <br>\r\n
+FITZROY,                             VIC,                             3065 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:Belinda.Woods@mh.org.au" >Belinda.Woods@mh.org.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Rehabilitation<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-a58fda4f-341e-41e8-9ffd-9aeb8da22f70" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Hannah Woods">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="a5202a8c-dfc0-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">Greenlight Human Capital</div>\r\n
+                    <p><strong class="name">Hannah Woods</strong></p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Paediatrics<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-202037be-99e0-4c1f-81bf-693d37240d00" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Kate Woods">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="bbe4e255-fe8b-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">Connecting OT</div>\r\n
+                    <p><strong class="name">Kate Woods</strong></p>\r\n
+                        <p>\r\n
+                            510 Kooyong Rd <br>\r\n
+CAULFIELD STH,                             VIC,                             3162 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0402143242" target="_blank">0402 143 242</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:kate@connectingot.com.au" >kate@connectingot.com.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Enhanced Primary Care, NDIS, Better Access to Mental Health (BAMH) Endorsed<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Paediatrics, Disability, NDIS Practice<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-9aceb486-e11d-4d9e-a371-fde1fc73f9ed" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Miriam Woods">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="4cf5de6d-389b-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">GoldilOTs</div>\r\n
+                    <p><strong class="name">Miriam Woods</strong></p>\r\n
+                        <p>\r\n
+                             <br>\r\n
+BENDIGO,                             VIC,                             3551 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0400511576" target="_blank">0400511576</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:miriam.goldilots@outlook.com" >miriam.goldilots@outlook.com</a></p>\r ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Paediatrics<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-b9c5cd75-c200-4cf2-a871-44988f9ca7a9" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Samantha Woods">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="f20535b7-889d-e911-a2c3-9b7af2531dd2">\r\n
+                        <div class="title__tag">Therapy Works CQ</div>\r\n
+                    <p><strong class="name">Samantha Woods</strong></p>\r\n
+                        <p>\r\n
+                            Edwards Chambers Suite 12/174 Quay St <br>\r\n
+ROCKHAMPTON,                             QLD,                             4700 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0749220376" target="_blank">07 4922 0376</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:admin@therapyworkscq.com.au" >admin@therapyworkscq.com.au</a></p>\r\n
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Autism Spectrum Disorders, Enhanced Primary Care, Medicare, NDIS, Aids and equipment schemes (state and territory), Medicare - Chronic Disease Management, Workc ▶
+                                <strong>Area(s) of Practice:</strong>\r\n
+Research/Education, Assistive Technology, Disability, Modifications/Access, NDIS Practice, Neurological Conditions, Occupational Rehab, Aged Care Practice, Priv ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-8dc425e9-8288-46a9-bb3d-c29ce36ec217" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Irena Woodward">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="19ef556b-727f-420e-baea-9829907e8498">\r\n
+                        <div class="title__tag">Family Connections Sydney</div>\r\n
+                    <p><strong class="name">Irena Woodward</strong></p>\r\n
+                        <p>\r\n
+                            Services Area <br>\r\n
+BANGOR,                             NSW,                             2234 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p><span class="contact-heading">Phone:</span> <a href="tel:0295436902" target="_blank">02 9543 6902</a></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0403926842" target="_blank">0403 926 842</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:irena@familyconnections.com.au" >irena@familyconnections.com.au</a></ ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Language(s):</strong>\r\n
+Polish<br/>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Medicare and Better Access to Mental Health, Enhanced Primary Care, Medicare - Chronic Disease Management, NDIS, Autism Spectrum Disorders, Better Access to Men ▶
+                                <strong>Area(s) of Practice:</strong>\r\n
+Autism Spectrum Disorder, Intellectual Disability, NDIS Practice, Private Practice Area, Professional Supervision, Foundation Skills, Disability, Paediatrics<br ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-8bfd9848-a4c7-47f5-88e2-983ef4094ed4" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Stephen Woolley">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="53c57f97-1a7a-ea11-9404-005056be13b5">\r\n
+                        <div class="title__tag">Stephen Woolley Occupational Therapy Pty Ltd</div>\r\n
+                    <p><strong class="name">Stephen Woolley</strong></p>\r\n
+                        <p>\r\n
+                            89 CHARLES ST <br>\r\n
+SEDDON,                             VIC,                             3011 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Mobile:</span> <a href="tel:0428252183" target="_blank">0428 252 183</a></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:stephen@stephenwoolley.com.au" >stephen@stephenwoolley.com.au</a></p> ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+WorkSafe  (VIC, ACT, NT, TAS), Aids and equipment schemes (state and territory), Comcare, Department of Veterans' Affairs (DVA), Medicare, Enhanced Primary Care ▶
+                                <strong>Area(s) of Practice:</strong>\r\n
+Intellectual Disability, Medico-Legal Practice, Disability, Rehabilitation, Modifications/Access, Driving, NDIS Practice, Neurological Conditions, Occupational  ▶
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-a54d63ea-9f49-4171-8431-5f4bf5b41d4b" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+    <div class="results__item">\r\n
+        <div class="image">\r\n
+                <img src="/public/img/default-member-img.png" alt="Tanya Wooster">\r\n
+        </div>\r\n
+        <div class="content org-main-content">\r\n
+            <div class="content__row">\r\n
+                <div class="content__col main-contact-content" ajax-data="7546b7c5-e373-eb11-9439-005056be13b5">\r\n
+                        <div class="title__tag">SeeChange Therapy.</div>\r\n
+                    <p><strong class="name">Tanya Wooster</strong></p>\r\n
+                        <p>\r\n
+                             <br>\r\n
+WARABROOK,                             NSW,                             2304 <br>\r\n
+AUSTRALIA                        </p>\r\n
+                                                            <br/>\r\n
+                    \r\n
+\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p></p>\r\n
+                            <p><span class="contact-heading">Email:</span> <a href="mailto:tw.seechangetherapy@gmail.com" >tw.seechangetherapy@gmail.com</a></p> ▶
+                    \r\n
+                </div>\r\n
+                <div class="content__col">\r\n
+                    <br /><br />\r\n
+                    <p>\r\n
+                                <strong>Funding Scheme(s):</strong>\r\n
+Autism Spectrum Disorders, Medicare, Medicare - Chronic Disease Management, NDIS<br />\r\n
+                                <strong>Area(s) of Practice:</strong>\r\n
+Paediatrics<br />\r\n
+                    </p>\r\n
+                </div>\r\n
+            </div>\r\n
+            <div class="extra__content collapse" id="extra__content-873f066a-0a6b-4bdd-9f5b-93750d819e7d" >\r\n
+                            </div>\r\n
+        </div>\r\n
+    </div>\r\n
+\r\n
+"""
