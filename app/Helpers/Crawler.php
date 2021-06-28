@@ -8,7 +8,7 @@ class Crawler{
     protected static $getDetailsUrl='https://www.otaus.com.au/search/getcontacts';
     protected $serviceType;
 
-    static function getIds($name)
+    public static function getIds($name)
     {
         $post = [
             'ServiceType' => 2,
@@ -25,7 +25,7 @@ class Crawler{
         return json_decode($response)->mainlist;
     }
 
-    static function getDOM($ids)
+    public static function getDOM($ids)
     {   
         $url=Crawler::$getDetailsUrl.'?';
         foreach($ids as  $id)
@@ -42,9 +42,9 @@ class Crawler{
         curl_close($curl);
 
         if($httpcode==200)
-            return $response;
+            return ["status"=>"succcess","body"=>$response];
         else 
-            return "error";
+            return ["status"=>"error","body"=>$response];
     }
 
     static function getContactName($col)
@@ -76,14 +76,17 @@ class Crawler{
         {
 
             $ads = explode("<br>",$address);
-            $city = explode(",",$ads[1])[0];
+            if(count($ads)>1)
+                $city = explode(",",$ads[1])[0];
+            else
+                $city = "-";
 
-            if(count(explode(",",$ads[1]))>1)
+            if(count($ads)>1 && count(explode(",",$ads[1]))>1)
                 $state = explode(",",$ads[1])[1];
             else   
                 $state = "-";
             
-            if(count(explode(",",$ads[1]))>2)
+            if(count($ads)>1 && count(explode(",",$ads[1]))>2)
                 $post = explode(",",$ads[1])[2];
             else
                 $post = "-";
@@ -94,7 +97,7 @@ class Crawler{
                 'city' => $city,
                 'state' => trim($state),
                 'post' => trim($post),
-                'country' => trim($ads[2])
+                'country' => count($ads)>1 ? trim($ads[2]):"-"
             ];
         }
         else{
@@ -156,6 +159,48 @@ class Crawler{
         ];
     }
 
+
+    static function parseOnlyDOM($dom)
+    {
+        $pq = new PhpQuery;
+        $pq->load_str($dom);
+
+        $rows=$pq->query(".results__item .org-main-content .content__row");
+
+        $data=[];
+
+    
+        foreach($rows as $row){
+            $col_q = new PhpQuery;
+            $col_q->load_str($pq->innerHtml($row));
+
+            $col1 = $col_q->innerHtml($col_q->query('.content__col')[0]);
+            $col2 = $col_q->innerHtml($col_q->query('.content__col')[1]);
+
+            $c_name = Crawler::getContactName($col1);
+            $p_name = Crawler::getPracticeName($col1);
+            $address = Crawler::getAddress($col1);
+            $phone = Crawler::getPhone($col1);
+            $others=Crawler::getOthers($col2);
+
+            $data[]= [ $p_name,
+                                $c_name,
+                                $address['street'],
+                                $address['city'],
+                                $address['state'],
+                                $address['post'],
+                                $address['country'],
+                                $phone,
+                                $others['funding_scheme'],
+                                $others['area_of_practice'],
+                    ];
+            
+        }
+        return $data;
+
+
+       
+    }
   
     static function parseDOM($dom,$f)
     {
@@ -211,6 +256,46 @@ class Crawler{
        
     }
 
+    public static function getAll()
+    {
+        $name="";
+        $data=[];
+        $all_ids=[];
+
+
+        $ids=Crawler::getIds($name);
+        $all_ids=array_unique(array_merge($all_ids,$ids));
+
+        $chunks=array_chunk($all_ids,48);
+        // $chunks= array_slice($chunks, 0, , true);
+         
+        $f = fopen("all.csv", "w");
+
+        fputcsv($f, [ "Practice Name",
+                        "Contact Name",
+                        "Street",
+                        "City",
+                        "State",
+                        "Post Code",
+                        "Country",
+                        "Phone",
+                        "Funding Sheme",
+                        "Area of Practice"
+             ]);
+
+        foreach($chunks as $chunk)  
+        {
+            $dom=Crawler::getDOM($chunk);
+            // return $dom['status'];   
+
+
+            if($dom['status'] != "error")
+                $data=array_merge($data,Crawler::parseDOM($dom['body']  ,$f));
+
+        }
+        return $data;
+    }
+
 
     public static function run($first)
     {
@@ -239,8 +324,8 @@ class Crawler{
 
 
         $dom=Crawler::getDOM($all_ids);
-        if($dom != "error")
-            $data=array_merge($data,Crawler::parseDOM($dom,$f));
+        if($dom['status'] != "error")
+            $data=array_merge($data,Crawler::parseDOM($dom['body'],$f));
         
           
     }

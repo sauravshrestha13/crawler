@@ -16,3 +16,8 @@ use App\Http\Controllers\HomeController;
 
 Route::get('/', [HomeController::class, 'index']);
 Route::get('/export', [HomeController::class, 'export']);
+Route::get('/getall', [HomeController::class, 'getAll']);
+Route::get('/getids', [HomeController::class, 'getIds']);
+Route::get('/getdata', [HomeController::class, 'getData']);
+
+
