@@ -1,6 +1,6 @@
 
 
-## Reward System
+## About
 
 This repositoy contains a simple crawler, developed for the assignment by Gresper. The project is developed in Laravel Framework.
 
