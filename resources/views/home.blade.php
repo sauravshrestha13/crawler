@@ -135,6 +135,19 @@
 
           $('#download').click(function(){
             let csvContent = "data:text/csv;charset=utf-8,";
+            initialRow=[ "Practice Name",
+                        "Contact Name",
+                        "Street",
+                        "City",
+                        "State",
+                        "Post Code",
+                        "Country",
+                        "Phone",
+                        "Funding Sheme",
+                        "Area of Practice"
+             ]
+
+            csvContent+= initialRow.join(',') + "\r\n"
 
             all_data.forEach(function(rowArray) {
                 let row = rowArray.join(",");
